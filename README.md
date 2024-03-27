@@ -5,6 +5,6 @@ this is a demo for git and github class.
 shradha khapra 
 
 # student 
- DELTA STUDNET 
+ DELTA STUDENT
  
 
